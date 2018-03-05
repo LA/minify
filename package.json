@@ -14,7 +14,7 @@
     "minify": "bin/minify"
   },
   "dependencies": {
-    "uglify-js": "~2.4.16",
+    "uglify-js": "2.6.0",
     "sqwish": "~0.2.2",
     "html-minifier": "~0.7.0",
     "commander": "~2.1.0",
